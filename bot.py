@@ -41,9 +41,9 @@ from multivolumefile import MultiVolume
 import threading
 
 #BoT Configuration Variables
-api_id = 10181262
-api_hash = "f52b5a057b73b9974eaa7403e04907f0"
-bot_token = "5947045568:AAE0mfkt85dPRAYIKGBEFdHd4qG4U3Y4bAA"
+api_id = 8929561
+api_hash = "63f3135377a968b14f3868777210af45"
+bot_token = "1786501693:AAFWt9hKT-8s4hjUaA9VW0PKHTj0TMZTJAg"
 Channel_Id = -1001648620646
 msg_id = 3
 bot = Client("bot",api_id=api_id,api_hash=api_hash,bot_token=bot_token)
